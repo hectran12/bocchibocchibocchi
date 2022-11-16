@@ -2,5 +2,6 @@
   "script_name": "highearn",
   "site": "https://dgb6.highearn.xyz/",
   "status": "on",
-  "message": "Hmm, this script has a problem or something, I closed it."
+  "message": "Any errors in the script, please contact via telegram or telegram channel for support",
+  "color": "YELLOW"
 }

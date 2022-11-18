@@ -3,5 +3,6 @@
   "site": "https://dgb4.highearn.xyz/",
   "status": "on",
   "message": "Any errors in the script, please contact via telegram or telegram channel for support",
+  "delay": 120,
   "color": "YELLOW"
 }

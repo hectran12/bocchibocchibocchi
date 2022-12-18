@@ -1,10 +1,10 @@
 {
-    "dbg": {
-        "name": "NEW SCRIPT DGB",
-        "link": "?page=dbg"
-    },
     "extension": {
         "name": "Extension for solving captcha",
         "link": "?page=extension"
+    },
+    "extension_self": {
+        "name": "Extension tự làm (Lang: VN)",
+        "link": "?page=extension_self"
     }
 }

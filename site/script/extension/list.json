@@ -12,5 +12,14 @@
         "description": "Call it bocchi timer because it manages your time yahh",
         "link_download": "https://github.com/hexzzz2008/Bocchi-Timer-Extension",
         "update_time": "13/12/2022"
-    }
+    },
+    {
+        "back": "https://raw.githubusercontent.com/hexzzz2008/Anime-Search-Extension/main/github/thumb.png",
+        "title": "Tìm kiếm anime/ảnh anime nhanh chống",
+        "description": "Tiết kiệm thời gian cho nhưng kẻ lười:3",
+        "link_download": "https://github.com/hexzzz2008/Anime-Search-Extension",
+        "update_time": "18/12/2022"
+    } 
+        
+      
 ]

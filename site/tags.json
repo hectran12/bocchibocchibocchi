@@ -6,5 +6,9 @@
     "extension_self": {
         "name": "Extension tự làm (Lang: VN)",
         "link": "?page=extension_self"
+    },
+    "claim_all_coins": {
+        "name": "Synthesize tools to claim many types of coins",
+        "link": "?page=claim_all_coins"
     }
 }
